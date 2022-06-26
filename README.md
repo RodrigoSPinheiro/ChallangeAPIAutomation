@@ -20,7 +20,7 @@ $ Adicionar nas variáveis do ambiente do sistema
 
 # Instale as dependências
 $ Intalar o PIP & PYTHON
-$ install robotframework
+$ Intalar robotframework
 
 # Execute a aplicação em modo de desenvolvimento
 $ robot teste.robot
